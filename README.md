@@ -1,7 +1,7 @@
 # Vikram's data-cleaning project submission
 
 ## Script Instructions
-run_analysis.R is the script that does the following
+**__run_analysis.R__** is the script that does the following
 1. Downloads the Samsung data (this part of the code is commented just to save time. Once it is downloaded, unzipped, there is no need to do it again. Please uncomment these two lines if you like to download the file again)
 2. The script uses dplyr package. If you don't have that installed, you could install by running 
 ``` 
