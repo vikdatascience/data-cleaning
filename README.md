@@ -25,6 +25,7 @@ run_analysis.R is the script that does the following
 ##Code Book
 
 **"activity_label":** The activity Label.  WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+
 **"subject" :** The subject id who was in test or train 
 
 **Following are the averages of each of the mesurements per activity, per subject**
